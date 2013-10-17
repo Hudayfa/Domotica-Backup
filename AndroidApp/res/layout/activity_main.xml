@@ -1,0 +1,5 @@
+<relativelayout android:layout_height="match_parent" android:layout_width="match_parent" tools:context=".MainActivity" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+ 
+    <textview android:id="@+id/textView1" android:layout_centerhorizontal="true" android:layout_centervertical="true" android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="@string/hello_world">
+ 
+</textview></relativelayout>
